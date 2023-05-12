@@ -1,2 +1,5 @@
 # DosAttackTool
-A dos attack application that sends 65500 bytes of data to a specified ip address. Only works for windows OS
+A dos attack application console application written in Java that sends 65500 bytes of data to a specified ip address. Only works for windows OS
+<br>
+<br>
+A console application that sends a dos attack to an ip address by sending 65500 bytes of data. Only works for windows OS. You have the option of entering the ip address manually and then saving the ip address to a text file called ipaddress.txt and then you can load the ip address from that text file in the future. I tested this application out on my own network and it lagged my network quite a bit, to the point where youtube videos stop playing if they haven't been fully buffered yet and if you try to visit a site during an attack, it will take a very long time to load. You can send the dos attack by seconds, minutes, hours, or indefinitely. This also kicked me off my wifi network a few times. This is for educational purposes only. Do not use this to dos other people's networks. Only use this on an ip address that you own! I am not responsible for any consequences from the use or misuse of this application!
